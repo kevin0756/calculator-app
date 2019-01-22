@@ -1,4 +1,4 @@
-This app uses nodemon for autobuilding the node server and create-react-app for swiftly generating the react application skeleton. Ensure you have these dependencies globally installed. To do so type in "npmm install -g nodemon" and "npm install -g create-react-app" in your terminal/command prompt without the quotes.
+This app uses nodemon for autobuilding the node server and create-react-app for swiftly generating the react application skeleton. Ensure you have these dependencies globally installed. To do so type in "npm install -g nodemon" and "npm install -g create-react-app" in your terminal/command prompt without the quotes.
 
 Install Dependencies:
 Once the project has been successfully forked, install dependencies by browsing into the project directory and typing in npm install. Once that is done, enter the 'client' folder and again execute npm install for installing the react dependencies. This might take a while.
